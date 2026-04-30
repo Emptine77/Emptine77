@@ -28,6 +28,7 @@ I am a Data Scientist and Machine Learning Engineer based in Dnipro, Ukraine, wi
 ### 📫 Let's Connect!
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/empt1ne77)
+[![LinkedIn](www.linkedin.com/in/empt1ne77)
 
 ---
 ⭐️ *Always open to discussing new ML concepts, collaborating on NLP projects, or just chatting about tech!*
