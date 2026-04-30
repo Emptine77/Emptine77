@@ -11,8 +11,8 @@ I am a Data Scientist and Machine Learning Engineer based in Dnipro, Ukraine, wi
 *   **Model Optimization:** Tuning models for local hardware using techniques like Mixed Precision, Gradient Checkpointing, and custom loss functions (Focal, Asymmetric).
 
 ### 🎓 Education & Certifications
-*   **MSc in Informatics & BSc in Applied Mathematics** — Oles Honchar Dnipro National University
-*   **Data Scientist Associate Certification** — DataCamp
+*   **MSc in Informatics & BSc in Applied Mathematics** - Oles Honchar Dnipro National University
+*   **Data Scientist Associate Certification** - DataCamp
 
 ### 💻 Key Projects
 *   **Transformer Studio & Multi-Label Text Classifier:** A desktop application integrating custom transformer architecture with modern ML pipelines.
